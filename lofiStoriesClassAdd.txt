@@ -1,0 +1,51 @@
+lo fidelity sketch of the story
+
+As a student, I can add a class
+
+Students logs in
+  ---------------------
+  |   email id _____  |
+  |   password _____  |
+  |                   |
+  |   Login           |
+  ---------------------
+  
+Select year and semester 
+  ---------------------
+  |   o Fall 2020     |
+  |   o Spring 2021   |
+  |   o Fall 2021     |
+  |                   |
+  |                   |
+  |   Continue        |
+  ---------------------
+  
+View  available classes for year,semester selected
+
+  Info about courses are displayed.
+    
+  ------------------------------------------
+  |   Fall 2021                            |
+  |                                        |
+  |   BUS-307  Finance      Add            |
+  |   HCOM-225 Lit & Film   Add            |
+  |                                        |
+  |                                        |
+  |                                        |
+  |   Return                               |
+  |                                        |
+  ------------------------------------------
+  
+  
+    * If the course is completed and instructor has entered final 
+      grade, the grade is displayed.
+  ------------------------------------------
+  |   Fall 2021 Class List                 |
+  |                                        |
+  |   BUS-299  Analytics                   |
+  |   HCOM-224 Indigenous Literat          |
+  |                                        |
+  |                                        |
+  |   Return                               |
+  |                                        |
+  ------------------------------------------
