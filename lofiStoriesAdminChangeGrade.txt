@@ -1,0 +1,91 @@
+lo fidelity sketch of the story
+
+As admin, I change student grades in case of error 
+
+Admin logs in
+  ---------------------
+  |   email id _____  |
+  |   password _____  |
+  |                   |
+  |   Login           |
+  ---------------------
+  
+Select student
+  ---------------------
+  |   o Student 1     |
+  |   o Student 2     |
+  |   o Student 3     |
+  |   o Student 4     |
+  |   o Student 5     |
+  |   o Student 6     |
+  |   o Student 7     |
+  |                   |
+  |                   |
+  |   Continue        |
+  ---------------------
+  
+View class grades for the student 
+
+  Grades for courses are displayed with option to edit.
+    
+  ------------------------------------------
+  |   Fall 2020                            |
+  |   BUS-307  Finance      A     Edit     |
+  |   HCOM-225 Lit & Film   B     Edit     |
+  |                                        |
+  |   Winter 2020                          |
+  |   BUS-310  Finance II   A     Edit     |
+  |   MATH-200 Calc         A     Edit     | 
+  |                                        |
+  |   Spring 2021                          |
+  |   BUS-312  GameTheo     A     Edit     |
+  |   Psych-100 Intro       A     Edit     | 
+  |                                        |
+  |   Fall 2021                            |
+  |   BUS-317  Finance III  A     Edit     |
+  |   Math-250 LinAlg       A     Edit     | 
+  |                                        |
+  |                                        |
+  |                                        |
+  |   Return                               |
+  |                                        |
+  ------------------------------------------
+  
+  
+    * If the course needs to be updated then the admin can select the course 
+      grade, the grade is displayed with a reason for change
+  ------------------------------------------
+  |   BUS-307  Finance                     |
+  |                                        |
+  |   Grade  curerntGrade:A  changeTo:_B_  |
+  |                                        |
+  |   Reason for Change:                   |
+  |   Found to be cheating on test         |
+  |                                        |
+  |   Return and Save                      |
+  |                                        |
+  ------------------------------------------
+  
+  Updated Grades will show 
+    ------------------------------------------
+  |   Fall 2020                            |
+  |   BUS-307  Finance      B    Edit     |
+  |   HCOM-225 Lit & Film   B     Edit     |
+  |                                        |
+  |   Winter 2020                          |
+  |   BUS-310  Finance II   A     Edit     |
+  |   MATH-200 Calc         A     Edit     | 
+  |                                        |
+  |   Spring 2021                          |
+  |   BUS-312  GameTheo     A     Edit     |
+  |   Psych-100 Intro       A     Edit     | 
+  |                                        |
+  |   Fall 2021                            |
+  |   BUS-317  Finance III  A     Edit     |
+  |   Math-250 LinAlg       A     Edit     | 
+  |                                        |
+  |                                        |
+  |                                        |
+  |   Return                               |
+  |                                        |
+  ------------------------------------------
