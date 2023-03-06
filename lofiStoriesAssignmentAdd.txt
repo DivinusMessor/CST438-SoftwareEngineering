@@ -37,9 +37,9 @@ A scrollable list of assignmnets from the course is displayed.
   ------------------------------------------
   |   CST363-1 Fall 2021                   |
   |                                        |
-  |   John Adam        Add                 |
-  |   Mary Barlow      Add                 |  
-  |   Kathy Carrow     Add                 |
+  |   Create Connection.         Add       |
+  |   SQL Commands               Add       |  
+  |   How to add to database     Add       |
   |                                        |
   |   Add new assignment                   |
   |                                        |
@@ -50,7 +50,7 @@ A scrollable list of assignmnets from the course is displayed.
   ------------------------------------------
   
   
-  If new assignment is selected then a blank form will be created with a line to enter name and the instructor can create a new assignment using this form. Once the new assignment is created it can be saveed and the assignment list will be updated
+  If new assignment is selected then a blank form will be created with a line to enter name and the instructor can create a new assignment using this form. 
   ------------------------------------------
   |   New Assignment Name:________         |
   |                                        |
@@ -64,5 +64,32 @@ A scrollable list of assignmnets from the course is displayed.
   |                                        |
   ------------------------------------------
   
+  Once the new assignment is created it can be saveed and the assignment list will be updated
+    ------------------------------------------
+  |   CST363-1 Fall 2021                   |
+  |                                        |
+  |   Create Connection.         Add       |
+  |   SQL Commands               Add       |  
+  |   How to add to database     Add       |
+  |   New Assignment             Add       |
+  |                                        |
+  |   Add new assignment                   |
+  |                                        |
+  |                                        |
+  |                                        |
+  |   Save Assignments     Return          |
+  |                                        |
+  ------------------------------------------
   
-  
+Once the assingment is added you can add it to the list of assignments and it will appear 
+  -------------------------
+  |   course   assignment |
+  |   O CST363 1-SQL      |
+  |   O CST363 2-AdvSQL   |
+  |   O CST438 1-BDD      |
+  |   O CST438 1-NewAssign|
+  |                       |
+  |                       |
+  |   Edit                |
+  |   Continue            |
+  -------------------------
