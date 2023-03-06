@@ -1,0 +1,68 @@
+lo fidelity sketch of the story
+
+As an instructor, I want to enter grades 
+ for an assignment
+
+Instuctor logs in
+  ---------------------
+  |   email id _____  |
+  |   password _____  |
+  |                   |
+  |   Login           |
+  ---------------------
+  
+The instructor is shown a list of 
+  assignments, options to edit assignments or can continue if assignments look good.
+  
+The instructor selects edit or continue.
+   
+  -------------------------
+  |   course   assignment |
+  |   O CST363 1-SQL      |
+  |   O CST363 2-AdvSQL   |
+  |   O CST438 1-BDD      |
+  |                       |
+  |                       |
+  |   Edit                |
+  |   Continue            |
+  -------------------------
+  
+A scrollable list of assignmnets from the course is displayed.  
+  There is also an options for adding new assignments
+  When complete the instructor needs to click SAVE.
+  The instructor can Return without Saving, in which case
+    the assignments will not be changed and not saved to the database.
+
+  
+  ------------------------------------------
+  |   CST363-1 Fall 2021                   |
+  |                                        |
+  |   John Adam        Add                 |
+  |   Mary Barlow      Add                 |  
+  |   Kathy Carrow     Add                 |
+  |                                        |
+  |   Add new assignment                   |
+  |                                        |
+  |                                        |
+  |                                        |
+  |   Save Assignments     Return          |
+  |                                        |
+  ------------------------------------------
+  
+  
+  If new assignment is selected then a blank form will be created with a line to enter name and the instructor can create a new assignment using this form. Once the new assignment is created it can be saveed and the assignment list will be updated
+  ------------------------------------------
+  |   New Assignment Name:________         |
+  |                                        |
+  |                                        |
+  |                                        |
+  |                                        |
+  |                                        |
+  |                                        |
+  |                                        |
+  |   Save Assignments     Return          |
+  |                                        |
+  ------------------------------------------
+  
+  
+  
