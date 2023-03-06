@@ -36,7 +36,12 @@ A scrollable list of assignmnets from the course is displayed.
   
   ------------------------------------------
   |   CST363-1 Fall 2021                   |
+  |   Current                              |
+  |   SQL         Remove                   |
+  |   AdvSQL      Remove                   |
+  |   BDD         Remove                   |
   |                                        |
+  |   Add Options                          |
   |   Create Connection.         Add       |
   |   SQL Commands               Add       |  
   |   How to add to database     Add       |
@@ -68,6 +73,12 @@ A scrollable list of assignmnets from the course is displayed.
     ------------------------------------------
   |   CST363-1 Fall 2021                   |
   |                                        |
+  |   Current                              |
+  |   SQL         Remove                   |
+  |   AdvSQL      Remove                   |
+  |   BDD         Remove                   |
+  |                                        |
+  |   Add Options                          |
   |   Create Connection.         Add       |
   |   SQL Commands               Add       |  
   |   How to add to database     Add       |
