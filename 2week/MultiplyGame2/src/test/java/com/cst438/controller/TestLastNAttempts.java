@@ -35,8 +35,8 @@ public class TestLastNAttempts {
 	public void lastNattempts() throws Exception  {
 		
 		
-		int N_ATTEMPTS = 2;
-		int LAST = 2;
+		int N_ATTEMPTS = 5;
+		int LAST = 3;
 		
 		for (int i=0; i< N_ATTEMPTS; i++) {
 			MockHttpServletResponse response = mvc.perform(

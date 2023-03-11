@@ -32,11 +32,12 @@ public class TestRandomProblem {
 	public void testRandomProblem() {
 		// given that the next two random numbers are 20, 30
 		// then the factors should be 31, 41
-		given(random.nextInt(89)).willReturn(20, 30);
+		given(random.nextInt(89)).willReturn(80, 52);
 		MultiplyProblem problem = generator.getProblem();
-		assertEquals(31, problem.factorA);
-		assertEquals(41, problem.factorB);
-
+		assertEquals(91, problem.factorA);
+		assertEquals(63, problem.factorB);
 	}
 
+
 }
+
